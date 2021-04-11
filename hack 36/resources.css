@@ -1,0 +1,29 @@
+body{
+    background-image: url(resback.jpg);
+}
+.head{
+    text-align: center;
+}
+.btn1{
+    color: blue;
+    border: 1px solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: "montserrat";
+
+}
+.homebtn{ 
+    top: 30px;
+    left: 80px;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    border: 4px solid transparent;
+    border-radius: 250px;
+    background-image: linear-gradient(#42455a,#42455a),radial-gradient(circle at top left,#fd00da,#19d7f8);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+    
+
+}
